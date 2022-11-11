@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 :sparkles: She/Her <br>
 :innocent: I am currently working as a Software Engineer <br>
-:telescope: I love to challange myself with working with an array of technlogies and am always up to learn! <br>
 :speech_balloon: Ask me About - Internet of Thigs, Hardware electronics, SpringBoot <br>
 :smile: **Fun Fact** - Apart from technology, I love to draw, dance and play football <br>
-:envelope: You can reach me at maulishribhandari@gamil.com or [LinkedIn](https://www.linkedin.com/in/maulishri-bhandari-41b172190/)
 <br>
 
 
