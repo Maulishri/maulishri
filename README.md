@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently working as a Software Engineer<br>I'm looking to collaborate on Designing Frontend and UI/UX Designing and learn the same on the go<br>Fun Fact- Apart from technology, I love to draw, dance and play football :)
+:sparkles: She/Her
+:innocent: I am currently working as a Software Engineer
+:telescope: I'm looking to collaborate on Designing Frontend and UI/UX Designing and learn the same on the go
+:speech_balloon: Ask me About - Internet of Thigs, Hardware electronics, SpringBoot 
+:smile: **Fun Fact** - Apart from technology, I love to draw, dance and play football
 
 
 ## 🌐 Socials:
