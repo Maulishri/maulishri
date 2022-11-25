@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:sparkles: She/Her <br>
 :innocent: I am currently working as a Software Engineer <br>
 :speech_balloon: Ask me About - Internet of Thigs, Hardware electronics, SpringBoot <br>
 :smile: **Fun Fact** - Apart from technology, I love to draw, dance and play football <br>
