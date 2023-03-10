@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 :speech_balloon: Ask me About - Internet of Thigs, Hardware electronics, SpringBoot <br>
 :smile: **Fun Fact** - Apart from technology, I love to draw, dance, read and play football <br>
 
-[**Personal Website**] (https://maulishri.github.io/)
+[Personal Website](https://maulishri.github.io/)
 
 <br>
 
