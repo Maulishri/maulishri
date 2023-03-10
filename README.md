@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 :smile: **Fun Fact** - Apart from technology, I love to draw, dance, read and play football <br>
 
 [Personal Website](https://maulishri.github.io/)
-
 <br>
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/maulishribhandari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maulishri-bhandari-41b172190/) 
